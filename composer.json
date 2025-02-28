@@ -1,0 +1,21 @@
+{
+    "name": "prince/testunit",
+    "description": "test",
+    "require": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Prince\\Testunit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prince-myssie",
+            "email": "prince.myssie@vocads.com"
+        }
+    ]
+}
