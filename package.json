@@ -1,4 +1,11 @@
 {
+  "name": "testunit",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "src/index.html",
+  "repository": "git@github.com:Caviaros123/testunitaire-efrei.git",
+  "author": "Prince",
+  "license": "MIT",
   "devDependencies": {
     "cypress": "^14.1.0"
   }
